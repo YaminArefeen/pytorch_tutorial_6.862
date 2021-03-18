@@ -1,0 +1,1 @@
+Commandline git working from console?
